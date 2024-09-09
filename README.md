@@ -1,7 +1,7 @@
 # Payments Developer Portal Enhancements
 
 ## Project Overview
-WEX needed to create new API endpoints to streamline data processing and meet mobility customer requirements, resulting in faster and more reliable access to key business data.
+Created new API endpoints to streamline data processing and meet mobility customer requirements, resulting in faster and more reliable access to key business data.
 
 ## Key Features
 - New API endpoints with enhanced data access and processing speed.
